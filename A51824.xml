@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short view of the most gracious providence of God in the Restoration and Succession, May 29, 1685</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51824</idno>
+            <idno type="STC">Wing M507</idno>
+            <idno type="STC">ESTC R8136</idno>
+            <idno type="EEBO-CITATION">12639346</idno>
+            <idno type="OCLC">ocm 12639346</idno>
+            <idno type="VID">64995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short view of the most gracious providence of God in the Restoration and Succession, May 29, 1685</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[2], 25, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Later issued as the fourth sermon in Manningham's Six sermons preached on the occasions following ...</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms II --  Sermons.</term>
+               <term>Sermons, English.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64995:1"/>
+            <pb facs="tcp:64995:1" rendition="simple:additions"/>
+            <p>A Short View Of the moſt Gracious PROVIDENCE OF GOD IN THE RESTORATION AND SUCCESSION.</p>
+            <p>
+               <hi>May</hi> 29. 1685.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Crook</hi> at the <hi>Green-Dragon,</hi> next <hi>Devereux Court,</hi> with<g ref="char:EOLhyphen"/>out <hi>Temple-Bar,</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64995:2"/>
+            <pb n="1" facs="tcp:64995:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>PSAL. 2.</hi>
+               </bibl>
+               <q>Why do the Heathen rage and the peo<g ref="char:EOLhyphen"/>ple Imagine a vain thing?</q>
+            </epigraph>
+            <p>THis Pſalm, as well as many other which were compo<g ref="char:EOLhyphen"/>ſed by the Prophet <hi>David,</hi> hath a double meaning; both <hi>literal</hi> and <hi>myſtical:</hi> The one relating to himſelf, and the Hiſtory of his own life; the other relating to Chriſt, and the Propheſie of his Kingdom.</p>
+            <p>As it relates to himſelf; we have the people of <hi>Iſrael,</hi> and the Heathen that were round them, conſpiring a<g ref="char:EOLhyphen"/>gainſt his Government; <hi>The Taber<g ref="char:EOLhyphen"/>nacles of</hi> Edom, <hi>and the Iſhmaelites, of</hi> Moab, <hi>and the Hagarens;</hi> Gebal, <hi>and</hi> Ammon, <hi>and</hi> Amaleck; <hi>the Phi<g ref="char:EOLhyphen"/>liſtins with the Inhabitants of</hi> Tyre;
+<pb n="2" facs="tcp:64995:3"/>Aſſur <hi>alſo and the Children of</hi> Lot, Pſal. 83.6. <hi>&amp;c.</hi>
+            </p>
+            <p>All theſe ten Nations were confe<g ref="char:EOLhyphen"/>derate againſt the Lord, and againſt his anointed; they were ſo vain as to attempt the Alteration of the Decrees of Heaven; whilſt he who ſate there, laugh'd them to ſcorn and had them in deriſion. Their confuſions did only make his Providence more conſpicu<g ref="char:EOLhyphen"/>ous; for notwithſtanding all their u<g ref="char:EOLhyphen"/>nited Counſels, and tumultuary rage, <hi>David</hi> was not only King in <hi>Hebron,</hi> but in <hi>Jeruſalem</hi> too.</p>
+            <p>Tho' they rage, tho' they medi<g ref="char:EOLhyphen"/>tate, tho' they conſult, tho' they conquer, and proſper for ſome time; <hi>yet have I ſet my King upon my Ho<g ref="char:EOLhyphen"/>ly Hill of</hi> Sion, <hi>v</hi> 6.</p>
+            <p>As 'tis a Propheſie, and relates to the Kingdom of Chriſt, we have the firſt Chriſtians comforting themſelves
+<pb n="3" facs="tcp:64995:3"/>with this Pſalm, and by an extraor<g ref="char:EOLhyphen"/>dinary Spirit applying it to their pre<g ref="char:EOLhyphen"/>ſent Concerns; Acts 4.25. <hi>Being aſ<g ref="char:EOLhyphen"/>ſur'd that as neither</hi> Herod, <hi>nor</hi> Pontius Pilate, <hi>ſo neither the Gentiles, nor the People of</hi> Iſrael <hi>could prevail againſt the Holy Child Jeſus:</hi> And about three hundred years afterwards the whole propheſie of this Pſalm was more eminently fulfill'd, when Chri<g ref="char:EOLhyphen"/>ſtianity became the Religion of the Empire; when notwithſtanding the malice of the <hi>Jews</hi> and Hereticks, and the ten Perſecutions of the Heathen Emperors, like the ten Nations confe<g ref="char:EOLhyphen"/>derate againſt <hi>David;</hi> the Kings and Judges of the Earth, became wiſe and inſtructed, kiſs'd and Ador'd the Son of God, and the Holy Child Jeſus prevail'd ſo far, till the extent of his Enemies, was turn'd into the largeneſs of his Inheritance.</p>
+            <p>
+               <pb n="4" facs="tcp:64995:4"/>From the opening of the Pſalm, you your ſelves will be ready to make this Natual reflection, that no paſſions <q>tho' never ſo furiouſly raging; and no Imaginations, tho' never ſo cun<g ref="char:EOLhyphen"/>ningly contriv'd, are likely to prevail long againſt a Government and a Re<g ref="char:EOLhyphen"/>ligion approv'd of, and eſtabliſh'd by God.</q>
+            </p>
+            <p>You cannot but apply this obſer<g ref="char:EOLhyphen"/>vation to the occaſion of the day, and find the Truth of it moſt evi<g ref="char:EOLhyphen"/>dently confirm'd by the great <hi>Revolu<g ref="char:EOLhyphen"/>tion</hi> in this Kingdom, and by your own <hi>Experience.</hi>
+            </p>
+            <p>As this Pſalm is a <hi>prophetical piece</hi> of Scripture, it holds infallibly true, of nothing but the Univerſal Church of Chriſt; but yet particular Chur<g ref="char:EOLhyphen"/>ches and Nations may apply it as a <hi>Doctrine of Providence;</hi> and none more properly than we, who have
+<pb n="5" facs="tcp:64995:4"/>a Monarchy moſt <hi>Providentially Di<g ref="char:EOLhyphen"/>vine,</hi> as Divine as can be made without an immediate deſignation from God; and a Religion as pure as <hi>Revelation</hi> it ſelf: It being nothing but the Holy Scriptures with the beſt interpretati<g ref="char:EOLhyphen"/>ons, and thoſe guarded with ſome few <hi>prudential limits;</hi> which the ig<g ref="char:EOLhyphen"/>norant have complain'd of, the mali<g ref="char:EOLhyphen"/>cious have diſturbed; but which the wiſeſt have ever approv'd, and the humble love to practice.</p>
+            <p>Could Men ever imagine, that things, ſo piouſly and ſo judiciouſly ſettled, ſhould not be the care of Pro<g ref="char:EOLhyphen"/>vidence one day, as they had been the long contrivance of it?</p>
+            <p>Had our <hi>Government</hi> and <hi>Church</hi> always continued, according to their firſt eſtabliſhment, without any altera<g ref="char:EOLhyphen"/>tion or diſturbance, we might have been fortunate and at Eaſe, have ſacri<g ref="char:EOLhyphen"/>fic'd
+<pb n="6" facs="tcp:64995:5"/>to our own Nets, and been proud of them, as if they had been our own Inventions; but we had never ſo well known their more remote and inward worth, or that the favour of God was ſo mingled with them: But now they have been try'd and ſearch'd by the malice of Devils, and the ſubtil<g ref="char:EOLhyphen"/>ty of men, and in all this <hi>winnowing</hi> there was found but little <hi>Chaff,</hi> they are return'd to us with their excellency more diſcover'd, and a ſecond appro<g ref="char:EOLhyphen"/>bation of Heaven.</p>
+            <p>He who reads our <hi>Civil Wars</hi> may lay aſide all the Hiſtories of <hi>Greeks</hi> and <hi>Romans, Turks</hi> and <hi>Tartars,</hi> and not miſs any one extravagance of humane Barbarity: For there he may find the utmoſt Force and guile of paſſion and hypocriſie; cruelty and Enthuſiaſm working together; and that not only in ſingle inſtances, but
+<pb n="7" facs="tcp:64995:5"/>under a publick National manage<g ref="char:EOLhyphen"/>ment; not as the product of ſeveral A<g ref="char:EOLhyphen"/>ges, but of one ſmall Circuit of years.</p>
+            <p>There he may ſee with what noiſe and clamours the Laws were ſilenc'd: with what fury and ignorance the multitude decreed Juſtice. With what pretended Treaties and Pacifica<g ref="char:EOLhyphen"/>tions the Armies were inflam'd, and the differences always widen'd: With what eager hoſtility, and open de<g ref="char:EOLhyphen"/>ſtruction, Rebellous Subjects were for preſerving their King: With what zeal and faſting Religion was baniſh'd out of the Land: With what Ty<g ref="char:EOLhyphen"/>ranny their precious liberty was ſe<g ref="char:EOLhyphen"/>cur'd; and with what unheard of im<g ref="char:EOLhyphen"/>poſitions they were eas'd of Taxes.</p>
+            <p>There he may read of the moſt ſo<g ref="char:EOLhyphen"/>lemn ſanctity robbing of God: Of the devouteſt eyes fix'd upon the Chur<g ref="char:EOLhyphen"/>ches patrimony: Of Prayers offer'd up
+<pb n="8" facs="tcp:64995:6"/>to Heaven, worſe than downright Blaſphemy: Of the rankeſt perjury ſcrupling a lawful Oath: Of Atheiſts fighting for Religion; and Hea<g ref="char:EOLhyphen"/>thens for the pure Goſpel of Chriſt: Of Treachery undermining perfidi<g ref="char:EOLhyphen"/>ouſneſs; Of Hypocriſie groaning a<g ref="char:EOLhyphen"/>gainſt Lewdneſs: Of Sacriledge ab<g ref="char:EOLhyphen"/>horring Idolatry; and of a <hi>Covenant</hi> made with Hell.</p>
+            <p>Certainly that late Rebellion was the moſt buſie Scene of the Devils Tragi-Comedy here on Earth, and he can hardly furniſh out ſuch ano<g ref="char:EOLhyphen"/>ther: If greater Judgments are alloted for Poſterity, ſome other Angels ſure muſt fall from a higher Sphear, to add new malice unto Hell, and make that direful Polity more <hi>Intelligent</hi> in miſchief.</p>
+            <p>There were ſome good Perſons in thoſe times, who lookt upon this Na<g ref="char:EOLhyphen"/>tion
+<pb n="9" facs="tcp:64995:6"/>as under a dreadful Anathe<g ref="char:EOLhyphen"/>ma, as excommunicated by God, and deliver'd over to Satan: And that which made it manifeſt, that we were only to be ſeverely <hi>diſciplin'd,</hi> and not deſtroy'd, was this; that at the ſame time when there was the <hi>higheſt Villany</hi> in this Land; there was the <hi>higheſt virtue too:</hi> The re<g ref="char:EOLhyphen"/>bellious party fought their King in<g ref="char:EOLhyphen"/>to that glory, which they never de<g ref="char:EOLhyphen"/>ſign'd him: Every Victory they wan, plac'd a new Star in his Breaſt: They overcame his forces, and he their injuſtice: They were more proſ<g ref="char:EOLhyphen"/>perous, and he more patient: They got the Field, and he an everlaſting Crown.</p>
+            <p>Thus will our Engliſh Annals ſtand checquer'd to the end of Ages, with the blackeſt Degeneracy of the worſt of Traitors, and the whiteſt
+<pb n="10" facs="tcp:64995:7"/>innocency of the beſt of Princes.</p>
+            <p>Nay for all that we know, this Iſland may be always noted for its <hi>two contrary Rivers, viz.</hi> the fierceſt torrent of Rebellion, and the No<g ref="char:EOLhyphen"/>bleſt tide of Loyalty, which in the late VVars were moſt conſpicuouſly ſeen together.</p>
+            <p>And tho' the <hi>Loyal Stream</hi> ran under ground for ſome few years, yet it ſoon came up again and fill'd its Chanel with a ſilent and an even courſe; and may it for ever flow with equal peace and plenty; for ever keep within its known and certain Banks of ancient <hi>Monarchy,</hi> of primitive and old <hi>Chriſtianity.</hi>
+            </p>
+            <p>If we except the people of <hi>Iſrael,</hi> who were Govein'd by a <hi>Theocraſie,</hi> never any Nation could boaſt of a more remarkable Theater of the Pro<g ref="char:EOLhyphen"/>vidence of God, then what this day afforded.</p>
+            <p>
+               <pb n="11" facs="tcp:64995:7"/>The paſſions of men were worn out with their own Rage: Their i<g ref="char:EOLhyphen"/>maginations were grown ſick of new Models and experiments of Empire: Anarchy had chang'd thro' all its monſtrous ſhapes: Ambition was ei<g ref="char:EOLhyphen"/>ther divided into proportional parts; or loſt its force in unweildy matter: The Spirit of uſurpation by often ſhifting was become dead, and vapid; and there was no Novelty of Sect or Rebellion to captivate the Peo<g ref="char:EOLhyphen"/>ple: No one pretender had ſtrength enough to get uppermoſt, but only juſt ſo much as might keep another back.</p>
+            <p>So perplex'd were the Civil af<g ref="char:EOLhyphen"/>fairs with various and contrary mo<g ref="char:EOLhyphen"/>tions, ſo diſpos'd were the Hearts of many for their old Government: So ſtupify'd were the guilty Traitors, and amaz'd like diſcover'd Cheats:
+<pb n="12" facs="tcp:64995:8"/>ſo infatuated were the Councels of the publick, and the Rage of the multitude ſo becalm'd, that the <hi>Re<g ref="char:EOLhyphen"/>ſtauration</hi> of the King ſeem'd at that juncture of time the only effect in the whole order of Providence ready to drop ripe from its cauſes by the leaſt humane endeavour: That moſt happy Enterpriſe being unexpectedly beſet with ſuch cloſe circumſtances from a Divine hand, that for its accom<g ref="char:EOLhyphen"/>pliſhment it ſeem'd to require not ſo much the experience and wiſdom of an able Councel, and the ready com<g ref="char:EOLhyphen"/>plyance of an honeſt mind, that wills as God would have it: 'Twas like the Rational Choice of an object appear<g ref="char:EOLhyphen"/>ing every way true and Good, and highly eligible, where there is nothing to ſuſpend or divert the conſent, but the frowardneſs or obſtinacy of free<g ref="char:EOLhyphen"/>will. <hi>Why therefore did the Heathen
+<pb n="13" facs="tcp:64995:8"/>rage, or the people imagine a vain thing<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>For thus we ſee how vain the i<g ref="char:EOLhyphen"/>maginations of thoſe men are, who ſet themſelves againſt eſtabliſh'd Con<g ref="char:EOLhyphen"/>ſtitutions, and the decrees of Hea<g ref="char:EOLhyphen"/>ven; how their machinations unra<g ref="char:EOLhyphen"/>vel into folly; and ſhame and diſho<g ref="char:EOLhyphen"/>nour are their laſt promotion.</p>
+            <p>How God permits the wicked to build a large Pile upon the Sand, that the ruine may be great and conſpicu<g ref="char:EOLhyphen"/>ous: To erect a Tower of ambition, that he may mingle confuſion with all ſuch proud attempts: And that when ſuch iudgments are in the earth the inhabitants thereof may learn Righteouſneſs: May tremble to re<g ref="char:EOLhyphen"/>peat that <hi>abominable ſin,</hi> on which the Lord perhaps has executed but half of his Vengeance yet, even as to this Life.</p>
+            <p>
+               <pb n="14" facs="tcp:64995:9"/>The Almighty has been pleas'd to let this Nation ſee the utmoſt of <hi>Re<g ref="char:EOLhyphen"/>bellious Projects,</hi> whither they tend, what they produce, and what is the fruit of the moſt <hi>proſperous ſedition:</hi> That no <hi>well meaning</hi> Perſon can e<g ref="char:EOLhyphen"/>ver be ingag'd on ſuch a deſperate deſign again, for which they is now no Colour, no Apology left; that henceforth, whoſoever reſiſts his King, muſt firſt remounce his God:</p>
+            <p>I know not what reflections thoſe ſufferers might have, who died in the midnight of the late confuſions, who ſavv the <hi>Viper</hi> faſtned to the Govern<g ref="char:EOLhyphen"/>ment, but did not live to ſee it ſhaken off: but vve have ſeen the operation. of the Lord, and by Events have read the main deſigns of Providence; that had God permitted the Pacifi<g ref="char:EOLhyphen"/>cations and Treaties to have taken ef<g ref="char:EOLhyphen"/>fect, the <hi>Monarchy</hi> had been <hi>divided</hi>
+               <pb n="15" facs="tcp:64995:9"/>and deſtroyed, and the <hi>Protestant Religion</hi> had lain gaſping in our land: We had loſt an <hi>example</hi> of the high<g ref="char:EOLhyphen"/>eſt Chriſtian Virtues, and example worth all the <hi>deſolation</hi> we under<g ref="char:EOLhyphen"/>went, and which nothing but great <hi>Calamity</hi> could have perfected and fi<g ref="char:EOLhyphen"/>niſh'd.</p>
+            <p>Many inſurrections were made, many generous attempts to recover the Crown, but God would not proſ<g ref="char:EOLhyphen"/>per <hi>impatient Loyalty;</hi> He reſerv'd the managment and the Honour to himſelf; and when all humane poli<g ref="char:EOLhyphen"/>cy lay as it were dead, he came forth, made his Arm bare, and brought about the wonderful Event.</p>
+            <p>He gave us a <hi>King,</hi> who, we are ſure was his <hi>peculiar gift,</hi> becauſe he came adorn'd with all thoſe graci<g ref="char:EOLhyphen"/>ous qualities, and all thoſe ſoveraign Virtues, which this diſtemper'd King<g ref="char:EOLhyphen"/>dom
+<pb n="16" facs="tcp:64995:10"/>ſo much wanted, and which our ruling Rebels had not to apply.</p>
+            <p>
+               <hi>They</hi> bred and countenanc'd a ſpawn of Sects, <hi>He</hi> practic'd and e<g ref="char:EOLhyphen"/>ſtabliſh'd an uniform Religion: <hi>They</hi> were moſt Tyrannous <hi>He</hi> moſt merciful: <hi>They</hi> delighted in perfidi<g ref="char:EOLhyphen"/>ouſneſs, War, and Blood; <hi>He</hi> in truth, and peace, and Love: <hi>They</hi> promo<g ref="char:EOLhyphen"/>ted ignorance, and hated learning; <hi>He</hi> cheriſh'd all ingenious Arts and uſeſul knowledge: <hi>They</hi> were impla<g ref="char:EOLhyphen"/>cable and revengeful; <hi>He</hi> made <hi>good Nature</hi> the Character of his people, and the Ambition of his Court: <hi>He</hi> planted where <hi>they</hi> had puck'd up; <hi>He</hi> built, where <hi>they</hi> had demoliſh'd: <hi>He</hi> every way repair'd the <hi>Ruines</hi> of the Civil War:</p>
+            <p>He was a gentle balm to heal our mutual wounds: The only <hi>Temper</hi> for a divided Kingdom to unite in:
+<pb n="17" facs="tcp:64995:10"/>He remain'd in baniſhment till the extreme miſery of the Nation made him the <hi>choice</hi> of his very Enemies; and then the Mountebanks of State reſign'd up to his Cure the <hi>deſterate Diſeaſe.</hi>
+            </p>
+            <p>He was the delight of our Eyes, the breath of our Noſtrils, the glad<g ref="char:EOLhyphen"/>neſs of our hearts. He was our won<g ref="char:EOLhyphen"/>der and our love; our deareſt King, our Father, and our Friend.</p>
+            <p>It is not eaſie to determine whether we receiv'd him with greater Joy, or were depriv'd of him with greater grief: He came in with all the <hi>ſhouts</hi> and <hi>acclamations</hi> of his people: He departed with all their <hi>Sighs</hi> and <hi>Groans</hi>
+            </p>
+            <p>But has God forgotten to be gra<g ref="char:EOLhyphen"/>cious? and with <hi>him</hi> has he ſhut up all his loving kindneſs; No: He is moſt propitious ſtill; we may behold
+<pb n="18" facs="tcp:64995:11"/>him working a moſt plain and viſible recompence to <hi>Charles the Martyr,</hi> in his extraordinary Providence to his <hi>Posterity</hi> here on earth; in that he or<g ref="char:EOLhyphen"/>dain'd, and hath thro' many Oppo<g ref="char:EOLhyphen"/>ſitions now effected, that <hi>two of his Sons ſhould ſit in peace upon his Throne.</hi> In that he hath ſo eminently bleſs'd the Succeſſion with a <hi>brave and a re<g ref="char:EOLhyphen"/>ſolute Prince,</hi> who has a Soul adorn'd with all thoſe regal qualities, which are adapted for the humours which he governs, and for the times in which he reigns.</p>
+            <p>Whatever the perſwaſions of our <hi>gracious Sovereign</hi> are, in ſome par<g ref="char:EOLhyphen"/>ticular Points of Faith, or modes of Worſhip different from us; yet when we deſerve it, God will make him <hi>wholly</hi> ours.</p>
+            <p>However, this is moſt evident to all that know <hi>him</hi> well; <q>that the
+<pb n="19" facs="tcp:64995:11"/>goodneſs of his inclinations is too ſtrict for the licentiouſneſs of the, Roman Caſuiſts; the mildneſs of his temper very con<g ref="char:EOLhyphen"/>trary to the cruelty of their Zealots; and the greatneſs of his Spirit moſt oppoſite to the ambiti<g ref="char:EOLhyphen"/>ous deſigns of the Court of <hi>Rome.</hi>
+               </q>
+            </p>
+            <p>He had been pleas'd to <hi>pro<g ref="char:EOLhyphen"/>miſe,</hi> to promiſe often, and to paſs his Royal word, for the maintaining of our Religion, but he expects we ſhould live up to it; for he has not engag'd to maintain our <hi>hypocriſie:</hi> If we truly value our Religion, let us ſhow it by our diligence, by our zeal, by our proficiency in all ſolid Virtue, and by our emi<g ref="char:EOLhyphen"/>nency in all good examples.</p>
+            <p>
+               <pb n="20" facs="tcp:64995:12"/>We have ſufficiently confirm'd the Loyalty of our <hi>Principles</hi> by arguments and diſputes, let us now eſpecially adorn them with our practice, and add the laſt hand to their perfection by our humble actions and behaviour.</p>
+            <p>God has now given us an <hi>Op<g ref="char:EOLhyphen"/>portunity,</hi> let us manage it with that prudent ſimplicity, and holy VViſdom; with that humble, but yet immoveable integrity, as may give God his Glory, and put all our <hi>Enemies</hi> to confuſion.</p>
+            <p>Remember, that the perfect Subjection to Kings is the Glory of the <hi>Proteſtant Cauſe;</hi> and that he that is <hi>Seditious</hi> is an Apoſtate to the Religion of this Kingdom,
+<pb n="21" facs="tcp:64995:12"/>be his pretences never ſo devout.</p>
+            <p>However God in his Mercy may over-rule Events, and turn the hearts of Kings as it ſeemeth good to him, yet ſure 'tis no ſuch glo<g ref="char:EOLhyphen"/>ry to the Proteſtant Cauſe, and no great policy in a people, that they ſhould ſo contrive to have a Suc<g ref="char:EOLhyphen"/>ceſſion of <hi>injur'd Princes,</hi> who muſt <hi>forgive</hi> before they <hi>govern:</hi> How can ſuch Subjects ever think to <hi>merit</hi> of their King, when all their future Services can hardly <hi>expiate?</hi> when they make it ſo dif<g ref="char:EOLhyphen"/>ficult a matter to diſtinguiſh, whe<g ref="char:EOLhyphen"/>ther they are <hi>truly Loyal,</hi> or whether they are only <hi>willing</hi> in the <hi>Day of his Power.</hi>
+            </p>
+            <p>Surely our <hi>Republican Enemies</hi>
+               <pb n="22" facs="tcp:64995:13"/>might be content to be quiet af<g ref="char:EOLhyphen"/>ter <hi>ſo many,</hi> and ſo <hi>ſignal</hi> De<g ref="char:EOLhyphen"/>monſtrations, that God is with us of a truth; and hath not on<g ref="char:EOLhyphen"/>ly given us our <hi>Goſpel</hi> but our <hi>Law:</hi> Since he hath made it ſo evident, not only to all <hi>haughty <g ref="char:V">Ʋ</g>ſurpers,</hi> by the revolution of this Day; but to all the framers of <hi>New Politicks,</hi> by the perſpicuous and undeniable reaſons of our mul<g ref="char:EOLhyphen"/>tiply'd Writings and Diſcourſes; <q>that the Engliſh Monarchy is not a model of the Brain, or a few conſequences drawn from an af<g ref="char:EOLhyphen"/>fected ſpeculation of Humane Nature; but a form of Govern<g ref="char:EOLhyphen"/>ment ſuited to the genius of a wiſe and Loyal People, founded on a Power deriv'd from God, politically guarded by a publick
+<pb n="23" facs="tcp:64995:13"/>ſucceſſive Prudence, and pro<g ref="char:EOLhyphen"/>nounc'd good by the experience of many Ages.</q>
+            </p>
+            <p>And ſhall a Conſtitution of ſuch hereditary wiſdom and ſtrength be made the ſport of every Dema<g ref="char:EOLhyphen"/>gogue, that dares be eloquent againſt the Laws, and loves to ride upon the paſſions of the Croud? The worſt I wiſh all ſuch is this, that it may ever be the peculiar <hi>Prero<g ref="char:EOLhyphen"/>gative</hi> of this <hi>Government</hi> and <hi>Church</hi> to make even thoſe <hi>happy</hi> that would <hi>deſtroy</hi> them both.</p>
+            <p>What ſhall we render unto the Lord for all his benefits; what re<g ref="char:EOLhyphen"/>turns ſhall we make for his Conti<g ref="char:EOLhyphen"/>nual protections, for our <hi>Redemp<g ref="char:EOLhyphen"/>tion on this day.</hi>
+            </p>
+            <p>
+               <pb n="24" facs="tcp:64995:14"/>Had we no revelation to guide our worſhip and to raiſe our grati<g ref="char:EOLhyphen"/>tude, the very peruſal of the Hi<g ref="char:EOLhyphen"/>ſtory of our late times might do it: We might repeat the Miracles which God hath wrought for us, to quicken our obedience and De<g ref="char:EOLhyphen"/>votion, for he hath not dealt ſo with any of the Nations which are round us, neither have they had ſuch <hi>Experience</hi> of his care.</p>
+            <p>But not our Arm, not our po<g ref="char:EOLhyphen"/>wer hath gotten theſe victories; nor for our <hi>Righteouſneſs</hi> doth this Land flouriſh; the Lord himſelf hath wrought theſe wonders for his Name ſake, that it might not be polluted among the Heathen; and if we our ſelves <hi>pollute it,</hi> where ſhall ſuch Sinners appear?</p>
+            <p>
+               <pb n="25" facs="tcp:64995:14"/>If we would have him ſtill to be our God, we muſt reſolve to be his people; to be as <hi>peculiar</hi> in our duty as he is in his bleſsings: Otherwiſe, his mercies are our ſe<g ref="char:EOLhyphen"/>vereſt Judgments; and our proſpe<g ref="char:EOLhyphen"/>rity only fits us for his final venge<g ref="char:EOLhyphen"/>ance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:64995:15"/>
+            <head>
+               <hi>Books Printed for</hi> William Crook <hi>at the</hi> Green-Dragon <hi>nigh</hi> Devereux: <hi>Court without</hi> Temple-Bar, 1685.</head>
+            <list>
+               <item>1. <hi>AN Inſtitution of General Hiſtory,</hi> or the Hi<g ref="char:EOLhyphen"/>ſtory of the world; the firſt and ſecond Vo<g ref="char:EOLhyphen"/>lum, in <hi>Folio</hi>
+               </item>
+               <item>2. <hi>The Bucaniers of America,</hi> or an account of the moſt remarkable Aſſaults committed of late years on the Coaſts of the Weſt <hi>Indies,</hi> by the <hi>Bucaniers</hi> of <hi>Jamaica</hi> and <hi>Tortuga;</hi> both Engliſh French and Dutch; the firſt and ſecond Volum in <hi>Quarto,</hi> price bound 10 <hi>s.</hi>
+               </item>
+               <item>3. <hi>The Proteſtant Religion a Safe way to Salvation,</hi> together with the Apoſtolical Inſtitution of Epiſco<g ref="char:EOLhyphen"/>pacy, alſo nine Sermons, <hi>&amp;c.</hi> by <hi>W. Chillingworth,</hi> the Fifth Edition, to which is now Added Mr. <hi>Chillingworths</hi> Arguments to his Friend Mr. <hi>Leiger</hi> to perſwade him to return from the Church of <hi>Rome,</hi> to his Mother the Church of England, in <hi>Folio.</hi>
+               </item>
+               <item>4. <hi>A Diſcourſe about Conſcience</hi> relating to the preſent differences among us, in oppoſition to both the extreams of Popery and Fanatiſm, in <hi>Quarto</hi> price 6 <hi>d.</hi>
+               </item>
+               <item>5. <hi>The Doctrine of Paſſive Obedience</hi> in a Sermon preach'd <hi>Jan.</hi> 30. laſt by <hi>J. Ellesby,</hi> Vicar of <hi>Che<g ref="char:EOLhyphen"/>ſwick</hi> in <hi>Quarto</hi> price 6 <hi>d.</hi> 1685.</item>
+               <item>6. A Sermon preach'd at the <hi>Spittle</hi> on <hi>Eaſter Tueſday</hi> laſt before the Lord Mayor, Court of Alder<g ref="char:EOLhyphen"/>men, and Governours of the Hoſpital by Dr. <hi>Haſ<g ref="char:EOLhyphen"/>card</hi> Dean of <hi>Windſor,</hi> 1685.</item>
+               <item>7. A Sermon preach'd at the Cathedral Church of <hi>Hereſord</hi> on the 29 of <hi>May</hi> by <hi>Richard Buckely</hi> Pre<g ref="char:EOLhyphen"/>bendary of that Church, 1685. price 6 <hi>d.</hi>
+               </item>
+               <item>8. <hi>The grounds of Sovereignty and Greatneſs</hi> tranſ<g ref="char:EOLhyphen"/>lated
+<pb facs="tcp:64995:15" rendition="simple:additions"/>out of French into Engliſh in <hi>Quarto,</hi> price 6 <hi>d.</hi> 1685.</item>
+               <item>9. A Diſcourſe of <hi>Tangeir</hi> under the Government of the Earl of <hi>Teviot</hi> by Dr. <hi>Addiſon</hi> Dean of <hi>Lich<g ref="char:EOLhyphen"/>field,</hi> price 6 <hi>d.</hi> 1685.</item>
+               <item>10. <hi>The manner of making, of Coffee, Tea, and Chocolate,</hi> as it is uſed in moſt parts of the VVorld, with the Virtues of them both as to Diet and Phy<g ref="char:EOLhyphen"/>ſick in <hi>Twelves,</hi> price bound 1 <hi>s.</hi> 1685.</item>
+               <item>11. <hi>Megalopſichy</hi> being a particular and exact ac<g ref="char:EOLhyphen"/>count of the laſt ſeventeen years of Queen <hi>Elizabeths</hi> Reign both Millitary and Civil; written by Sir <hi>William Monſon</hi> one of the Queens Admirals, and <hi>H. Townſend</hi> Eſquire, a member of her laſt Parliament, wherein is an exact account of her ſeventeen years VVars with <hi>Spain;</hi> alſo the debates and Diſcourſes of the greateſt States men in that Queens Reign, being the moſt exact account, of the proceedings of the <hi>Lords and Commons</hi> in Parliament, that is yet in print, in <hi>Folio,</hi> price 12 <hi>s.</hi> bound.</item>
+               <item>12. <hi>Compendium Geographicum</hi> being the moſt ex<g ref="char:EOLhyphen"/>act and eaſie piece of <hi>Geography</hi> with two Alphabe<g ref="char:EOLhyphen"/>tical Tables or Dictionaries, the one of the antient the other of the Modern Names of all Towns Ci<g ref="char:EOLhyphen"/>ties, Countries, <hi>&amp;c.</hi> in the world, in <hi>Twelves,</hi> price bound 1 <hi>s.</hi>
+               </item>
+               <item>13. The Tracts of <hi>Tho. Hobs</hi> of <hi>Malmsbury</hi> being an exact account of the Civil wars of <hi>England</hi> from 1640. to 1660. and by what Councels and Artifices it was carried on, printed now from the Original Manuſcript with three Tracts more of the ſame Au<g ref="char:EOLhyphen"/>thors, in <hi>Octavo,</hi> price bound 5 <hi>s.</hi>
+               </item>
+               <item>14. <hi>The Soules Communion with her Saviour:</hi> or the Hiſtory of our Lord Jeſus Chriſt, written by the four Evangeliſts in Devotional Meditations, in <hi>Twelves,</hi> price bound 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+            </list>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
